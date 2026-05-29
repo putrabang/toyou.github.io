@@ -128,7 +128,7 @@ animate();
 // PREMIUM COUNTDOWN
 
 const targetDate =
-new Date("2026-05-30T04:00:00");
+new Date("2026-05-30T03:00:00");
 
 function updateCountdown(){
 
@@ -229,7 +229,7 @@ const anniversary =
 "hijau";
 
 const graduationDate =
-new Date("2026-05-30T04:00:00");
+new Date("2026-05-30T03:00:00");
 
 console.log(new Date());
 console.log(graduationDate);
