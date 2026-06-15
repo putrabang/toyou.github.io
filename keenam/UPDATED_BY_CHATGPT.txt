@@ -1,0 +1,6 @@
+Security & modernization patch applied:
+- Added viewport meta tag
+- Added basic CSP header
+- Removed legacy external HTTP links
+- Updated page title
+- Added anniversary placeholders
